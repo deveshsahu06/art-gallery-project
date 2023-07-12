@@ -1,18 +1,4 @@
 # Virtual-Art-Gallery
-You need to create an unordered list of your images.
-
-<ul>
-   <li>
-       <img alt="Night away"  src="images/photodune-174908-rocking-the-night-away-xs.jpg">
-       <p>Optional text. This will also show in the modal</p>
-   </li>
-   <li>
-       <img alt="Yellow boy" src="images/photodune-287182-blah-blah-blah-yellow-road-sign-xs.jpg">
-   </li>
-   <li>
-       <img "Some colors"  src="images/photodune-460760-colors-xs.jpg">
-   </li>
-</ul>
 
 1) The Modal box that opens is always going to be the large modal. Images will scale up to 100% to fill the entire modal box. You still have the option of having a small thumbnail and linking to a different image for the large size  mainly for performance purposes.
 
